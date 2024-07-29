@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object Problems
 
 It's time to get some practice using Objects! Below we've included a link to
@@ -30,3 +31,7 @@ When you finish your project, don't forget to add your project to your Github!
 
 [github]: https://github.com/
 [GitHub Docs]: https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+=======
+# POJO-project
+Practice with JS objects
+>>>>>>> 3ac71874d25798219f5cc7c82e9c84b2e399ad2e
